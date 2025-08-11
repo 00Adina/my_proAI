@@ -24,7 +24,7 @@ torchaudio
 transformers
 requests
 git+https://github.com/hexgrad/kokoro.git
-moviepy
+moviepy-1.0.3
 ez_setup
 pygame
 pytesseract
