@@ -1,0 +1,39 @@
+Topic: Professional Ethics
+```json
+{
+    "slide1": {
+        "Key Concepts": "Here are the meanings of some key words and concepts: \"Don't compromise yourself. You are all you've got.\" Janis Joplin",
+        "Ethics": "The process of determining right and wrong conduct. The discipline dealing with what is good and bad and with moral duty and obligations",
+        "Ethical Behaviour": "Behaviour that conforms to accepted standards of conduct",
+        "Ethical Reasoning": "The process of sorting out the principles that help determine what is ethical when faced with an ethical dilemma"
+    },
+    "slide2": {
+        "Ethical System": "A specific formula for distinguishing right from wrong",
+        "Unethical": "An action or conduct which violates the principles of one or more ethical systems, or which is counter to an accepted ethical value, such as honesty",
+        "Non-ethical Considerations": "Powerful human motivations that are not based on right or wrong, but on considerations of survival and well-being, such as health, security, love, wealth, or selfesteem",
+        "Ethical Dilemma": "This is an ethical problem in which the ethical choice involves ignoring a powerful non-ethical consideration."
+    },
+    "slide3": {
+        "Ethical Alarms": "“Ethics alarms are the feelings in your gut, the twinges in your conscience, and the sense of caution in your brain when situations involving choices of right and wrong are beginning to develop, fast approaching, or unavoidable.” The better your ethics alarm is working and the sooner your alarm goes off the more likely you are to do the right thing, or at least use good ethical reasoning to decide what to do.",
+        "The Importance of Ethical Conduct in Business": "The field of business ethics often overlaps and informs ethical decision making for engineers. your business dealings. The company‟s reputation is in your hands and it therefore depends on you to do the right thing in the best interests of the organization. High standards in business conduct will go a long way to meriting the confidence and support of your clients and employers. While business practices may change over time, our commitment to the highest standards of integrity should remain constant and unblemished. Conducting business ethically is critical to success in the marketplace. It means more than obeying the law; it means that high standards of integrity must underlie every activity we undertake. It is up to the engineer to apply these guidelines to the best of their ability in their own individual situation.",
+        "Professional Ethics": "In life our behavior is governed by different norm systems. The word NORM comes from Latin “NORMA”= yardstick. Norms dictate what we “ought” or “ought not” to do. The norm systems governing the behaviour of a professional are:",
+        "Individual morality": "Refers to individual values of a specific person and what they believe to be right. Individual morality is influenced by how a person was raised. It is their personal value system. The sanction for disobeying one‟s individual morality is a guilty conscience."
+    },
+    "slide4": {
+        "Positive morality": "This set of norms represents what is considered “right” in society at a particular time. The sanction for failure to obey positive morality is social sanction.",
+        "Law (Legal Norms)": "Laws protect society and prevent anarchy by regulating behavior.",
+        "Public Law": "also referred to as criminal law: between the state and individual.",
+        "Private Law": "also referred to as contractual law and focuses on the relationship between persons."
+    },
+    "slide5": {
+        "Code of Ethics": "The norm system governing and regulating engineering professional behavior is professional ethics. Certain common principles underlie professional codes and bodies, e.g. Medical and Dental Council, Police Service Code of Conduct, Estate Agents Code of Conduct. Codes may not be exhaustive and may not include all the rules and regulations that apply to every situation. The contents therefore have to be viewed within the framework of company policies, procedures and the requirements of the law. In our society ethical concerns have escalated in the past few years and have been raised at government level. Organizations have hot lines for employees to anonymously report unethical behaviour. In our field of engineering issues of fairness have been legislated and we have a Code of Conduct in place. The question of ethical practice, however, covers broad ground and encompasses everything we do as professionals and the way we behave towards each other and our clients.",
+        "Respect for People’s Dignity and Rights": "Respect the client’s personal integrity (privacy, confidentiality) Be non-judgmental of the intrinsic value of the client irrespective of age, behavior, culture, gender, race or religion If you are not competent to undertake a project/ task refer to another engineer Respect the knowledge skills and experience of your colleagues and other professionals",
+        "Responsible Practice": "The critical focus of this principle is to limit your practice to your field of expertise and competence You must have the appropriate knowledge and skill before undertaking an activity Undergo relevant training and adhere to best practice Keep abreast of new developments in your field Use a new technique under supervision of a competent and experienced engineer",
+        "Integrity in Relationships": "The power relationship is unbalanced between the client and the engineer as most power rests with the engineer (having the knowledge and skill) which leaves the client vulnerable Professional codes expect engineers to act with integrity For engineers to be accepted in society and successful in their profession they need to be trusted. There is a fiduciary relationship whereby one person (the client), in a position of vulnerability, justifiably reposes confidence, good faith, reliance and trust in another (the engineer) whose aid, advice or protection is sought in some matter. In such a relationship good conscience requires one to act at all times for the sole benefit and interests of another, with loyalty to those interests."
+    },
+    "slide6": {
+        "Responsibility": "Clients are clearly the engineer‟s first responsibility but engineers also have a responsibility to society Examples of responsible social actions are to: o disperse information that can advance the profession to protect the public trust in the engineering profession by “blowing the whistle” on non-professional conduct o assisting in some instances where worthy causes cannot afford professional services or protect society from dangerous practices",
+        "Code of Conduct for Professional Persons": "The purpose of the Code of Conduct is threefold:\n to increase professional and ethical consciousness among engineers and\n their sense of ethical responsibility;\n to guide engineers in making more informed ethical choices; and\n to help the Engineering profession itself function at the fullness of its potential\nAs professionals, engineers commit themselves to supporting and acting in accordance with ethical guidelines covering the following six main areas:\n Competency\n Integrity\n Public Interest\n Environment\n Dignity of the Profession\n Administrative"
+    }
+}
+```

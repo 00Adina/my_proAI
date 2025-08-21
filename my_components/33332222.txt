@@ -1,0 +1,29 @@
+Answer:
+```json
+{
+    "topic": "Key Concepts in Professional Ethics",
+    "headings": [
+        "Key Concepts",
+        "Ethics",
+        "Ethical Behaviour",
+        "Ethical Reasoning",
+        "Ethical System",
+        "Unethical",
+        "Non-ethical Considerations",
+        "Ethical Dilemma"
+    ],
+    "paragraphs": [
+        "engineers' obligations to the public, their clients, employers and the profession and is appropriate in all aspects of professional practice",
+        "Here are the meanings of some key words and concepts: \"Don't compromise yourself. You are all you've got.\" Janis Joplin",
+        "The process of determining right and wrong conduct. The discipline dealing with what is good and bad and with moral duty and obligations",
+        "Behaviour that conforms to accepted standards of conduct",
+        "The process of sorting out the principles that help determine what is ethical when faced with an ethical dilemma",
+        "A specific formula for distinguishing right from wrong",
+        "An action or conduct which violates the principles of one or more ethical systems, or which is counter to an accepted ethical value, such as honesty",
+        "Powerful human motivations that are not based on right or wrong, but on considerations of survival and well-being, such as health, security, love, wealth, or selfesteem",
+        "This is an ethical problem in which the ethical choice involves ignoring a powerful non-ethical consideration."
+    ]
+}
+```
+
+Generated on: 2025-08-18 15:20:15
